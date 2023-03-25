@@ -1,0 +1,5 @@
+public class Ramana{
+public void test(){
+//you can write logic here
+}
+}

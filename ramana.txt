@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 public class Ramana{
 public void test(){
 //you can write logic here
 }
 }
+=======
+this is ramana.txt
+>>>>>>> 71152a7833ad68f0f2fc82e8c85d43aca48c50ad
